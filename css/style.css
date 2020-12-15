@@ -1,1 +1,28 @@
+/***CSS STYLES***/
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffc2c2;
+}
+
+.title {
+    font-family: 'Lora', serif;
+    font-size: 4rem;
+    color: #F77993;
+    text-align: center;
+    margin: 40px 0;
+}
+
+.screens-container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.img {
+    height: 38rem;
+}
+
 
